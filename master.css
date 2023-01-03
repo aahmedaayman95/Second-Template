@@ -244,7 +244,7 @@ header .container nav .form i{
 /* Start of Landing */
 .landing {
 min-height : 100vh;
-background-image : url("/Images/landing.jpg");
+background-image : url("Images/landing.jpg");
 background-size :cover;
 /* background-color : black; */
 position:relative;
@@ -402,7 +402,7 @@ transform :translateY(-50%);
     padding-top:var(--section-padding);
     padding-bottom:var(--section-padding);
     height : 525px;
-    background-image: url("/Images/design-features.jpg");
+    background-image: url("Images/design-features.jpg");
     background-size:cover;
     position:relative;
     display :flex;
@@ -630,7 +630,7 @@ transform :translateY(-50%);
 .stats {
     padding-top:var(--section-padding);
     padding-bottom:var(--section-padding);
-    background-image : url("/Images/coffe.jpg");
+    background-image : url("Images/coffe.jpg");
     background-position: center;
     background-size : cover;
     position:relative;
@@ -822,7 +822,7 @@ transform :translateY(-50%);
 .quote {
     padding-top:var(--section-padding);
     padding-bottom:var(--section-padding);
-    background-image:url("/Images/dream.jpg");
+    background-image:url("Images/dream.jpg");
     background-size : cover;
     background-position: center;
     color:white;
@@ -973,7 +973,7 @@ transform :translateY(-50%);
   .subscribe {
     padding-top : var(--section-padding);
     padding-bottom : var(--section-padding);
-    background-image : url("/Images/subscribe.jpg");
+    background-image : url("Images/subscribe.jpg");
     background-size : cover;
     position : relative;
     color : white;
@@ -1140,7 +1140,7 @@ transform :translateY(-50%);
     /* footer padding should be less other sections  */
     padding-top: calc(var(--section-padding) / 2);
     padding-bottom: calc(var(--section-padding) / 2);
-    background-image: url("/Images/footer.jpg");
+    background-image: url("Images/footer.jpg");
     background-size: cover;
     position: relative;
     color: white;
